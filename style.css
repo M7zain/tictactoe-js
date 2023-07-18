@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+
+td{
+    border: 2px solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    /* text alignment */
+    text-align: center;
+    font-size: 100px;
+
+
+}
+.gameTitle{
+    background-color: rgb(83, 128, 219);
+    padding: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+#Restart{
+    background-color: rgb(114, 172, 223);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
